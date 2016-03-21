@@ -1,26 +1,26 @@
 {
-  "name": "picaso.task",
-  "version": "1.0.0",
-  "description": "为项目提供任务部署服务。",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Malygose/Picaso.task.git"
-  },
-  "author": "馬驍",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Malygose/Picaso.task/issues"
-  },
-  "homepage": "https://github.com/Malygose/Picaso.task#readme",
-  "dependencies": {
-    "bluebird": "3.0.5",
-    "config": "1.16.0",
-    "gulp": "3.9.0",
-    "gulp-less": "3.0.5",
-    "less-plugin-clean-css": "1.5.1"
-  }
+    "name": "picaso.task",
+    "version": "1.0.1",
+    "description": "为项目提供任务部署服务。",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Malygose/Picaso.task.git"
+    },
+    "author": "馬驍",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Malygose/Picaso.task/issues"
+    },
+    "homepage": "https://github.com/Malygose/Picaso.task#readme",
+    "dependencies": {
+        "bluebird": "3.0.5",
+        "config": "1.16.0",
+        "gulp": "3.9.0",
+        "gulp-less": "3.0.5",
+        "less-plugin-clean-css": "1.5.1"
+    }
 }
